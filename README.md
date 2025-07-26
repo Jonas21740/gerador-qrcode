@@ -69,4 +69,4 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE.md par
 
 ---
 
-**Criado por [Jonas Samuel do Nascimento]** - [github.com/Jonas21740] - [jonassamuel088@gmail.com]
+**Criado por Jonas Samuel do Nascimento** - github.com/Jonas21740 - jonassamuel088@gmail.com
